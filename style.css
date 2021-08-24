@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+
+#search-box{
+    display: flex;
+    justify-content: center;
+}
+
+#value{
+    border-color: white;
+    margin: 20px;
+}
+
+#grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: 20px;
+    color: white;
+}
+
+.hide{
+    display: none;
+}
+
+/* 
+.grid-items{
+} */
